@@ -11,3 +11,5 @@ autograd_hacks.py (External library for gradient computation. Reference: https:/
 CUDA 10.0 and GPU support.
 
 The outputs are saved as pickle/numpy files in the directories as mentioned in each README.
+
+Thanks to "On The Power of Curriculum Learning in Training Deep Networks" by Hacohen & Weinshall (ICML 2019).
